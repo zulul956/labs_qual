@@ -1,0 +1,23 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 500px;
+    font-size: 22px;
+}
+select {
+    padding: 10px;
+    margin-left: 15px;
+}
+.price {
+    font-size: 26px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+button {
+    padding: 5px;
+}
+.korzina {
+    width: 80px;
+    background-color: greenyellow;
+}
