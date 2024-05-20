@@ -1,0 +1,50 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vh;
+}
+.logoImg {
+    margin-right: 100px;
+}
+.navbarText {
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+    white-space: nowrap
+}
+.navbarBtnOrange {
+    min-width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    background-color: orange;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    margin: 10px;
+    cursor: pointer;
+    margin-left: 100px;
+}
+.NavbarBtnText {
+    color: white;
+    text-decoration: none;
+}
+.navbarBtnBlue {
+    min-width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    background-color: blue;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    margin: 10px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.btnImage {
+    margin-right: 20px;
+}
